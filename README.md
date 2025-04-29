@@ -28,7 +28,7 @@ https://github.com/generaltang1/SpringWebProject
 
 ## 주요기술
 - java
-- MySQL, MariaDB
+- MySQL, MariaDB ,MS SQL, ORACLE, 
 - 웹표준 (HTML5, Javascript, CSS)
 - JQuery
 - JSP
